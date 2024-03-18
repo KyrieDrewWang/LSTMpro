@@ -246,3 +246,8 @@ ipch
 x64
 **/Debug
 Debug
+.vs
+.vscode
+.db
+.DS_Store
+**/.DS_Store
